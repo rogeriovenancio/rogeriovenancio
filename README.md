@@ -13,8 +13,8 @@
 
 <strong>Apaixonado por tecnologia</strong>, educação e por mudar a vida das pessoas através da programação.
 
-##  Vídeos dos Últimos:
-## #  Vídeos dos Últimos:
+ 👨🏻‍💻 Bootcamps e Cursos :
+  
 - [ Ciência de Dados para o Mercado Financeiro ](https://www.xpeducacao.com.br/)<br/>
 - [ O que estudar para se tornar um desenvolvedor front-end, Back-End, Full-Stack?  ](https://www.dio.me/)<br/>
 - [ Criando interface de login do Instagram - React Native ](https://youtu.be/pSV9Wh_p2Cg)<br/>
