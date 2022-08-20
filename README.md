@@ -15,7 +15,7 @@
 
 ##  Vídeos dos Últimos:
 ## #  Vídeos dos Últimos:
-- [ Criando Infinite Scroll - React Native ](https://youtu.be/TjkFGrjkXfc)<br/>
+- [ Ciência de Dados para o Mercado Financeiro ](https://www.xpeducacao.com.br/)<br/>
 - [ O que estudar para se tornar um desenvolvedor front-end, Back-End, Full-Stack?  ](https://www.dio.me/)<br/>
 - [ Criando interface de login do Instagram - React Native ](https://youtu.be/pSV9Wh_p2Cg)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
