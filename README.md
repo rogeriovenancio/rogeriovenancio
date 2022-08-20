@@ -13,9 +13,9 @@
 
 <strong>Apaixonado por tecnologia</strong>, educação e por mudar a vida das pessoas através da programação.
 
- ## 👨🏻‍💻 <h2>Bootcamps e Cursos :</h2>
+ ## 👨🏻‍💻👨‍🎓 <h2>Bootcamps e Cursos :</h2>
   
 - [ Ciência de Dados para o Mercado Financeiro ](https://www.xpeducacao.com.br/)<br/>
 - [ O que estudar para se tornar um desenvolvedor front-end, Back-End, Full-Stack?  ](https://www.dio.me/)<br/>
 - [ Desenvolvendo Aplicações Mobile com Android Studio ](https://www.ev.org.br/areas-de-interesse/programacao)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+- [Habilidades que combinam com você](https://www.udemy.com/pt/courses/free/)<br/>
