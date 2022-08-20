@@ -13,7 +13,8 @@
 
 <strong>Apaixonado por tecnologia</strong>, educação e por mudar a vida das pessoas através da programação.
 
- ## 👨🏻‍💻👨‍🎓 <h2>Bootcamps e Cursos :</h2>
+ ## 
+  <h2>👨‍🎓 Bootcamps e Cursos 👨🏻‍💻 </h2>
   
 - [ Ciência de Dados para o Mercado Financeiro ](https://www.xpeducacao.com.br/)<br/>
 - [ O que estudar para se tornar um desenvolvedor front-end, Back-End, Full-Stack?  ](https://www.dio.me/)<br/>
