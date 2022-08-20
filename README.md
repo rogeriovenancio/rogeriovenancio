@@ -1,7 +1,7 @@
 <h2> Olá  !  🖐️ Seja, Bem Vindo! 🖐️ </h2>
 
 [![ Blog ](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
-[![ Youtube ](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![ Youtube ](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
 
 ##  Tecnologias que eu uso no meu dia
 
